@@ -1,0 +1,30 @@
+\title{Specification Template}
+\author{Author}
+
+\documentclass[12pt]{article}
+
+\begin{document}
+\maketitle
+
+
+\section{Overview}
+Define the purpose of the project and general specifications.
+
+\section{Background Research/Information}
+Provide some research or information on existing projects.
+
+\section{System Requirements and Desired Features}
+Specifications for the project.
+
+\section{Design Solution}
+Proposed solution to be used.
+
+\section{Testing Procedures}
+Procedure to check whether specifications are met.
+
+\section{Project Timeline}
+Estimated timelines.
+
+\section{Version History}
+Date - ver 1.0 - Initial Revision
+\end{document} 
